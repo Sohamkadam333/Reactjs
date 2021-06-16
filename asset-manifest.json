@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/https//Sohamkadam333.github.io/monsters-rolodex/static/css/main.059df42d.chunk.css",
-    "main.js": "/https//Sohamkadam333.github.io/monsters-rolodex/static/js/main.1389efbc.chunk.js",
-    "main.js.map": "/https//Sohamkadam333.github.io/monsters-rolodex/static/js/main.1389efbc.chunk.js.map",
-    "runtime-main.js": "/https//Sohamkadam333.github.io/monsters-rolodex/static/js/runtime-main.939409dd.js",
-    "runtime-main.js.map": "/https//Sohamkadam333.github.io/monsters-rolodex/static/js/runtime-main.939409dd.js.map",
-    "static/js/2.bb7480b0.chunk.js": "/https//Sohamkadam333.github.io/monsters-rolodex/static/js/2.bb7480b0.chunk.js",
-    "static/js/2.bb7480b0.chunk.js.map": "/https//Sohamkadam333.github.io/monsters-rolodex/static/js/2.bb7480b0.chunk.js.map",
-    "index.html": "/https//Sohamkadam333.github.io/monsters-rolodex/index.html",
-    "static/css/main.059df42d.chunk.css.map": "/https//Sohamkadam333.github.io/monsters-rolodex/static/css/main.059df42d.chunk.css.map",
-    "static/js/2.bb7480b0.chunk.js.LICENSE.txt": "/https//Sohamkadam333.github.io/monsters-rolodex/static/js/2.bb7480b0.chunk.js.LICENSE.txt"
+    "main.css": "/Sohamkadam333/react-tutorial.git/static/css/main.4379c897.chunk.css",
+    "main.js": "/Sohamkadam333/react-tutorial.git/static/js/main.2dbdd67e.chunk.js",
+    "main.js.map": "/Sohamkadam333/react-tutorial.git/static/js/main.2dbdd67e.chunk.js.map",
+    "runtime-main.js": "/Sohamkadam333/react-tutorial.git/static/js/runtime-main.15da8732.js",
+    "runtime-main.js.map": "/Sohamkadam333/react-tutorial.git/static/js/runtime-main.15da8732.js.map",
+    "static/js/2.2f3bb981.chunk.js": "/Sohamkadam333/react-tutorial.git/static/js/2.2f3bb981.chunk.js",
+    "static/js/2.2f3bb981.chunk.js.map": "/Sohamkadam333/react-tutorial.git/static/js/2.2f3bb981.chunk.js.map",
+    "index.html": "/Sohamkadam333/react-tutorial.git/index.html",
+    "static/css/main.4379c897.chunk.css.map": "/Sohamkadam333/react-tutorial.git/static/css/main.4379c897.chunk.css.map",
+    "static/js/2.2f3bb981.chunk.js.LICENSE.txt": "/Sohamkadam333/react-tutorial.git/static/js/2.2f3bb981.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.939409dd.js",
-    "static/js/2.bb7480b0.chunk.js",
-    "static/css/main.059df42d.chunk.css",
-    "static/js/main.1389efbc.chunk.js"
+    "static/js/runtime-main.15da8732.js",
+    "static/js/2.2f3bb981.chunk.js",
+    "static/css/main.4379c897.chunk.css",
+    "static/js/main.2dbdd67e.chunk.js"
   ]
 }
